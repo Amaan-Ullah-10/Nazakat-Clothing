@@ -108,11 +108,7 @@ const Index = () => {
           </div>
           
           <div className="border-t border-border mt-12 pt-8 text-center text-muted-foreground">
-<<<<<<< HEAD
             <p>&copy; 2025 Nazakat. All rights reserved. Crafted with passion for timeless elegance.</p>
-=======
-            <p>&copy; 2024 Nazakat. All rights reserved. Crafted with passion for timeless elegance.</p>
->>>>>>> 913cdc90e347e75cdf9269fdfc1a97bc182f263b
           </div>
         </div>
       </footer>

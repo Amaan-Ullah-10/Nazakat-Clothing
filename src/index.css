@@ -28,11 +28,7 @@
 
     /* Muted - Soft Gray */
     --muted: 30 6% 95%;
-<<<<<<< HEAD
     --muted-foreground: 25 5% 25.1%;
-=======
-    --muted-foreground: 25 5% 45%;
->>>>>>> 913cdc90e347e75cdf9269fdfc1a97bc182f263b
 
     /* Accent - Gold Touch */
     --accent: 38 78% 65%;
@@ -99,11 +95,7 @@
     --secondary-foreground: 210 40% 98%;
 
     --muted: 217.2 32.6% 17.5%;
-<<<<<<< HEAD
     --muted-foreground: 215 20.2% 25.1%;
-=======
-    --muted-foreground: 215 20.2% 65.1%;
->>>>>>> 913cdc90e347e75cdf9269fdfc1a97bc182f263b
 
     --accent: 217.2 32.6% 17.5%;
     --accent-foreground: 210 40% 98%;

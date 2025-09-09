@@ -33,20 +33,12 @@ const Contact = () => {
     {
       icon: MapPin,
       title: 'Visit Our Store',
-<<<<<<< HEAD
       details: ['104H- Sector 62', 'Noida, UP 20130', 'India'],
-=======
-      details: ['123 Fashion Avenue', 'New York, NY 10001', 'United States'],
->>>>>>> 913cdc90e347e75cdf9269fdfc1a97bc182f263b
     },
     {
       icon: Phone,
       title: 'Call Us',
-<<<<<<< HEAD
       details: ['+91 (0591) 000-0000 ', '+91 8630112491'],
-=======
-      details: ['+1 (555) 123-4567', '+1 (555) 987-6543'],
->>>>>>> 913cdc90e347e75cdf9269fdfc1a97bc182f263b
     },
     {
       icon: Mail,
